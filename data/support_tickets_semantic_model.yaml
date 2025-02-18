@@ -76,6 +76,7 @@ tables:
           - "phone service"
           - "phone service type"
           - "phone service type of the customer"
+          - "type of phone service"
         description: Phone service type
         expr: SERVICE_TYPE
         data_type: TEXT
