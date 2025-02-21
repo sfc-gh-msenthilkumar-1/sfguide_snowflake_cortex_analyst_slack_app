@@ -25,7 +25,7 @@ USE SCHEMA <DB_NAME>.<SCHEMA_NAME>;
 CREATE OR REPLACE SECRET SF_GIT_SECRET
   TYPE = password
   USERNAME = '<my-account>'
-  PASSWORD = 'ghp_xxx<token>';
+  --token = 'ghp_xxx<token>';
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
